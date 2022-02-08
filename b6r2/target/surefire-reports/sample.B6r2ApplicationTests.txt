@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sample.B6r2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.532 s - in sample.B6r2ApplicationTests
